@@ -1,5 +1,8 @@
 Run the application:
     docker-compose up --build
+    Note:
+        cosmos related information is stored in .env file.  (it wount uploed to git)
+            Create .env file with -> ACCOUNT_URI, ACCOUNT_KEY
 
 reate a folder with the following files:
     docker-compose.yml
